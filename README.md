@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am David Reider!
 
-<a href="https://twitter.com/Reider_DJ" target="_blank">![twitter-follower](https://img.shields.io/twitter/follow/reider_dj?style=social)</a>
+<a href="https://twitter.com/Reider_DJ">![twitter-follower](https://img.shields.io/twitter/follow/reider_dj?style=social)</a>
 
 A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
 
