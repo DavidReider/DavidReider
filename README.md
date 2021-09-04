@@ -1,6 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am David Reider!
-
-<a href="https://twitter.com/Reider_DJ">![twitter-follower](https://img.shields.io/twitter/follow/reider_dj?style=social)</a>
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <a href="https://www.linkedin.com/in/david-reider-408578165/" target="_blank">David Reider</a>!
 
 A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
 
@@ -8,7 +6,16 @@ I create tech content, mostly about Web Development and JavaScript, **but** I al
 
 I'm currently learning about working with APIs, various (headless) CMS platforms, and some miscellaneous JavaScript topics and libraries.
 
-I'm looking to collaborate on any projects at the moment! 
+Check out my personal portfolio: **<a href="https://djreider.com/" target="_blank"> Portfolio </a>
+
+--- 
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/david-reider-408578165/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:reider_dj10@yahoo.com"><img alt="Gmail" src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white"/></a>
+  <a href="https://twitter.com/Reider_DJ"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+</div>
 
 ---
 
