@@ -6,7 +6,7 @@ I create tech content, mostly about Web Development and JavaScript, **but** I al
 
 I'm currently learning about working with APIs, various (headless) CMS platforms, and some miscellaneous JavaScript topics and libraries.
 
-Check out my personal portfolio: **<a href="https://djreider.com/" target="_blank"> Portfolio </a>
+Check out my personal portfolio: <a href="https://djreider.com/" target="_blank"> Portfolio </a>
 
 --- 
 
