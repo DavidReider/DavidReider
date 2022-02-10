@@ -2,7 +2,7 @@
 
 A Software Engineer specializing in JavaScript technologies. Experience with the technologies listed in the **toolbox** below.
 
-I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding.
+I am very much into Web Development and JavaScript, **but** I also enjoy various other topics other than coding.
 
 I'm currently learning about working with APIs, various (headless) CMS platforms, and some miscellaneous JavaScript topics and libraries.
 
