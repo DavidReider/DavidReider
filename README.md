@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <a href="https://www.linkedin.com/in/david-reider-408578165/" target="_blank">David Reider</a>!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I am <a href="https://www.linkedin.com/in/david-reider-408578165/" target="_blank">David Reider</a>!
 
 A Software Engineer specializing in JavaScript technologies. Experience with the technologies listed in the **toolbox** below.
 
