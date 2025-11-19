@@ -14,7 +14,6 @@ Check out my personal portfolio: <a href="https://djreider.com/" target="_blank"
 <div align="left">
   <a href="https://www.linkedin.com/in/david-reider-408578165/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:reider_dj10@yahoo.com"><img alt="Gmail" src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white"/></a>
-  <a href="https://twitter.com/Reider_DJ"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </div>
 
 ---
